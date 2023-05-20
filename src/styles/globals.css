@@ -25,3 +25,8 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+.bg {
+  /* background-image: url('../../public/Untitled.png'); */
+  background-color: #393e41;
+}
