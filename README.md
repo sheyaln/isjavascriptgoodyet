@@ -23,7 +23,7 @@ Frustration and a web browser to view the site, or a text editor if you wish to 
 
 ## Contributing
 
-If you have any ideas to showcase the worst practices of Javascript, Feel free to open a pull request.
+If you have any ideas to showcase the worst practices of Javascript, feel free to open a pull request.
 
 ## License
 
