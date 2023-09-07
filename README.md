@@ -1,12 +1,12 @@
 # isjavascriptgoodyet?
 
-The one true source of truth in regards to the current goodness state of Javascript.
+https://isjavascriptgoodyet.com is the one source of truth in regards to the current goodness state of Javascript.
 
 ## Overview
 
 "Is JavaScript Good Yet?" is a 100% accurate status monitoring website that displays the overall rating of the current state of Javascript.
 
-![Screenshot of the website showing just the word 'No'](screenshot.png)
+![Screenshot of the website showing just the word 'No'](Screenshot.png)
 
 ## Features
 
