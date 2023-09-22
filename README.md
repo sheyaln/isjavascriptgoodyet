@@ -31,5 +31,5 @@ This project is licensed under the finders keepers license.
 
 ## Acknowledgments
 
-- Oracle for not DMCA-ing me yet.
+- Oracle for not sending me a cease and desist yet.
 - The vibrant dev community for constantly making memes about JavaScript.
