@@ -68,8 +68,8 @@ export default function Home() {
           <h1 className="text-9xl text-white">No.</h1>
           <p>
             made with hate by{" "}
-            <Link href="https://github.com/Milksheyke" className="underline">
-              Milksheyke
+            <Link href="https://github.com/sheyaln" className="underline">
+              sheyaln
             </Link>
           </p>
         </div>
